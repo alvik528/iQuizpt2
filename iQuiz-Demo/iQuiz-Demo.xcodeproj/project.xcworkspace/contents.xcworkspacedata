@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../iQuiz-Demo/FinishedViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../NavigationController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../AnswerViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../QuestionViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../iQuiz-Demo/QuizViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../QuizCell.swift">
+   </FileRef>
+   <FileRef
+      location = "self:iQuiz-Demo.xcodeproj">
+   </FileRef>
+</Workspace>
